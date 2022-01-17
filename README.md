@@ -1,2 +1,2 @@
 # A-Quick-Dice-Game
-A quick dice 
+A quick dice game.
